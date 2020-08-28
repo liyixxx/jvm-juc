@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd089ed3-dcf7-4494-b266-d789168b09b3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jvm&amp;juc" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/environment/maven/soft/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\environment\maven\soft\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a19CHAfFtNNET1IX4CQdn2gqQD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xin\Desktop\浅\java\CodeFile\jvm&amp;juc\nio" />
+      <recent name="C:\Users\xin\Desktop\浅\java\CodeFile\jvm&amp;juc\nio\src" />
+      <recent name="C:\Users\xin\Desktop\浅\java\CodeFile\jvm&amp;juc\nio\src\resource" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xin\Desktop\浅\java\CodeFile\jvm&amp;juc" />
+      <recent name="C:\Users\xin\Desktop\浅\java\CodeFile\jvm&amp;juc\nio" />
+      <recent name="C:\Users\xin\Desktop\浅\java\CodeFile\jvm&amp;juc\juc\src\com\xin\juc02" />
+      <recent name="C:\Users\xin\Desktop\浅\java\CodeFile\jvm&amp;juc\juc\src\com\xin\juc" />
+      <recent name="C:\Users\xin\Desktop\浅\java\CodeFile\jvm&amp;juc\jvm\src\com\xin\jvm" />
+    </key>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd089ed3-dcf7-4494-b266-d789168b09b3" name="Default Changelist" comment="" />
+      <created>1585892103308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585892103308</updated>
+      <workItem from="1585892104534" duration="626000" />
+      <workItem from="1585897730439" duration="17197000" />
+      <workItem from="1586316457932" duration="10074000" />
+      <workItem from="1586342774310" duration="10834000" />
+      <workItem from="1586391762278" duration="28627000" />
+      <workItem from="1586486669677" duration="12964000" />
+      <workItem from="1586570005216" duration="1012000" />
+      <workItem from="1586571234380" duration="27450000" />
+      <workItem from="1586653599714" duration="574000" />
+      <workItem from="1598275585547" duration="5000" />
+      <workItem from="1598349093609" duration="1187000" />
+      <workItem from="1598403133647" duration="804000" />
+      <workItem from="1598577282621" duration="3759000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="187" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598579754788">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state x="187" y="97" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1463.884@0.0.1463.884" timestamp="1598579754788" />
+    <state x="457" y="147" key="#com.intellij.tools.ToolEditorDialog" timestamp="1598579599151">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state x="457" y="147" key="#com.intellij.tools.ToolEditorDialog/0.0.1463.884@0.0.1463.884" timestamp="1598579599151" />
+    <state x="430" y="199" key="FileChooserDialogImpl" timestamp="1598408809079">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state x="430" y="199" key="FileChooserDialogImpl/0.0.1463.884@0.0.1463.884" timestamp="1598408809079" />
+    <state x="233" y="33" key="SettingsEditor" timestamp="1598580503000">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state x="233" y="33" key="SettingsEditor/0.0.1463.884@0.0.1463.884" timestamp="1598580503000" />
+    <state width="680" height="882" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1598581444017">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="680" height="882" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1463.884@0.0.1463.884" timestamp="1598581444017" />
+  </component>
+</project>
